@@ -1,1 +1,1 @@
-web: alphamizulinetest
+web: linebotTest
